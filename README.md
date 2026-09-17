@@ -3,7 +3,7 @@ Code and data for paper “An Efficient Transfer Learning-Based Fire Detection M
 
 IEEE Transactions on Image Processing, 2026
 
-Status: Under review. Code will be released upon acceptance.
+Status: Under review. Code will be provided upon request.
 
 ## 1. Datasets
 This repository does **not** redistribute the original datasets. Please download them from the official sources below.
