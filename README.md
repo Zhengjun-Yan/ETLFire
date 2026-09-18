@@ -1,7 +1,7 @@
 # ETLFire
-Code and data for paper “An Efficient Transfer Learning-Based Fire Detection Method for Resource-Constrained Scenarios”
+Code and data for paper “ETLFire: An Efficient Transfer Learning Framework for Fire Detection on IoT Edge Devices”
 
-IEEE Transactions on Image Processing, 2026
+IEEE Internet of Things Journal, 2026
 
 Status: Under review. Code will be provided upon request.
 
